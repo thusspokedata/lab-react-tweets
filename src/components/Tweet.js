@@ -1,10 +1,6 @@
 import React from "react";
 // import App from "../App";
-import ProfileImage from "./ProfileImage";
-import User from "./User";
-import Timestamp from "./Timestamp";
-import Message from "./Message";
-import Actions from "./Actions";
+import { ProfileImage, User, Timestamp, Message, Actions  } from "./";
 
 function Tweet(props) {
   return (

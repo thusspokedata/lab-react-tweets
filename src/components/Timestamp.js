@@ -1,6 +1,4 @@
-import React from "react";
-
-export default function Timestamp(props) {
+export function Timestamp(props) {
   const time = props.time;
   return (
     <>

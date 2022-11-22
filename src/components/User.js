@@ -1,6 +1,4 @@
-import React from "react";
-
-export default function Profile(props) {
+export function User(props) {
   const user = props.userData;
 
   return (

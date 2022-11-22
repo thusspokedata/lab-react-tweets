@@ -1,6 +1,4 @@
-import React from "react";
-
-export default function Actions(props) {
+export function Actions(props) {
   return (
     <>
       <div className="actions">
